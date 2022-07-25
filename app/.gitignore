@@ -4,14 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
-
+# Bun development tool
+bun.lockb
+.swc
 # testing
 /coverage
 
 # next.js
-/.next/
-/out/
-
+dist
 # production
 /build
 
